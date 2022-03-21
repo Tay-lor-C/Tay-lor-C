@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Taylor Clark
-- 👀 I’m interested in natural hazards, hazard mapping and data science. 
+- 👀 I’m interested in natural hazards, hazard mapping and blending these topics with data science to get a better understanding on how to reduce the risks to people. 
 - 🌱 I’m currently learning how to use python and drones to map different types of natural hazards.
 - 📫 Taylorclark47@gmail.com
 
